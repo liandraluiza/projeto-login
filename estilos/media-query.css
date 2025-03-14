@@ -41,7 +41,11 @@
         width: 50%;
     }
 
+    div#formulario > h1 {
+        font-size: 2em;
+    }
+
     div#formulario > p {
-        font-family: 0.2em;
+        font-family: 1.2em;
     }
 }
